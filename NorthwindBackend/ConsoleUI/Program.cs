@@ -7,7 +7,7 @@ class Program
 {
     private static void Main()
     {
-        ProductTest();
+
     }
 
     private static void CategoryTest()

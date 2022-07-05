@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
@@ -18,31 +19,37 @@ namespace Business.Concrete
             _productDal = productDal;
         }
 
+        public IResult Add(Product product)
+        {
+            return new ErrorResult("Hata");
+
+            _productDal.Add(product);
+
+            return new Result(true, "Ürün eklendi");
+        }
+
         public List<Product> GetAll()
         {
-            // Does it have authorization
-
             return _productDal.GetAll();
         }
 
         public List<Product> GetAllByCategoryId(int id)
         {
-            // Does it have authorization
-
             return _productDal.GetAll(p => p.CategoryId == id);
         }
 
         public List<Product> GetAllByUnitPrice(decimal min, decimal max)
         {
-            // Does it have authorization
-
             return _productDal.GetAll(p => p.UnitPrice >= min && p.UnitPrice <= max);
+        }
+
+        public Product GetById(int productId)
+        {
+            return _productDal.Get(p => p.ProductId == productId);
         }
 
         public List<ProductDetailDto> GetProductDetails()
         {
-            // Does it have authorization
-
             return _productDal.GetProductDetails();
         }
     }

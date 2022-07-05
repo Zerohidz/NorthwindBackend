@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yCKNb3GMAFKFmLX9YCNvt2F5jGdT32uCJgHrNGIJJRB2nlEJSadjKMVivj/LyPoyP9uh8SufytaYL1oYsroZjw==",
+  "dgSpecHash": "3a+/TCMYB2Kr8zyRezHpTrX5ZLx8EPepWd0ypru761IEqZ9D+44FHcp/u85AGpVEblD5qpRId2+katghi5L4zQ==",
   "success": true,
-  "projectFilePath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\Core\\Core.csproj",
+  "projectFilePath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zerohidz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Zerohidz\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

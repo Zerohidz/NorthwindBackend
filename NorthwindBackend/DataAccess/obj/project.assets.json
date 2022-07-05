@@ -1813,11 +1813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Zerohidz\\.nuget\\packages\\",
-      "outputPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\DataAccess\\obj\\",
+      "outputPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1838,8 +1838,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\Entities\\Entities.csproj"
+            "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\Entities.csproj"
             }
           }
         }
