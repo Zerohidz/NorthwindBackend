@@ -24,9 +24,18 @@ class Program
     {
         ProductManager productManager = new ProductManager(new EfProductDal());
 
-        foreach (var productDetails in productManager.GetProductDetails())
+        var result = productManager.GetProductDetails();
+
+        if (result.Success == true)
         {
-            Console.WriteLine(productDetails.ProductName + " / " + productDetails.CategoryName);
+            foreach (var productDetails in result.Data)
+            {
+                Console.WriteLine(productDetails.ProductName + " / " + productDetails.CategoryName);
+            }
+        }
+        else
+        {
+            Console.WriteLine(result.Message);
         }
     }
 }
