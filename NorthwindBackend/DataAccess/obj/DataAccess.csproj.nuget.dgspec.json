@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {}
+    "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\Core.csproj": {
+    "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\Core.csproj",
+        "projectPath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Zerohidz\\.nuget\\packages\\",
-        "outputPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\obj\\",
+        "outputPath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,18 +64,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {
+    "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Zerohidz\\.nuget\\packages\\",
-        "outputPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\obj\\",
+        "outputPath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,8 +96,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\Entities.csproj"
+              "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\Entities.csproj"
               }
             }
           }
@@ -132,18 +132,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\Entities.csproj": {
+    "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Zerohidz\\.nuget\\packages\\",
-        "outputPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\obj\\",
+        "outputPath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -164,8 +164,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\Core.csproj": {
-                "projectPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\Core.csproj"
+              "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\Core.csproj": {
+                "projectPath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Core\\Core.csproj"
               }
             }
           }
@@ -194,7 +194,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

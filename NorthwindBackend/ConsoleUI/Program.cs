@@ -7,9 +7,9 @@ class Program
 {
     private static void Main()
     {
-
+        
     }
-
+    
     private static void CategoryTest()
     {
         CategoryManager categoryManager = new CategoryManager(new EfCategoryDal());

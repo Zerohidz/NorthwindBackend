@@ -1850,11 +1850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Zerohidz\\.nuget\\packages\\",
-      "outputPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\ConsoleUI\\obj\\",
+      "outputPath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1875,8 +1875,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Business\\Business.csproj": {
-              "projectPath": "D:\\Portfolio\\CurrentRepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Business\\Business.csproj"
+            "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Business\\Business.csproj": {
+              "projectPath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Business\\Business.csproj"
             }
           }
         }
@@ -1905,7 +1905,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

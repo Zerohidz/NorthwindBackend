@@ -34,3 +34,15 @@ D:\Portfolio\CurrentRepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj
 D:\Portfolio\CurrentRepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj\Debug\net6.0\refint\Core.dll
 D:\Portfolio\CurrentRepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj\Debug\net6.0\Core.pdb
 D:\Portfolio\CurrentRepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj\Debug\net6.0\ref\Core.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\Core\bin\Debug\net6.0\Core.deps.json
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\Core\bin\Debug\net6.0\Core.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\Core\bin\Debug\net6.0\Core.pdb
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj\Debug\net6.0\Core.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj\Debug\net6.0\refint\Core.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj\Debug\net6.0\Core.pdb
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\Core\obj\Debug\net6.0\ref\Core.dll
