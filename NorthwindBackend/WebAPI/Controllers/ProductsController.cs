@@ -30,9 +30,9 @@ namespace WebAPI.Controllers
         }
 
         [HttpGet("getbyid")]
-        public IActionResult GetById()
+        public IActionResult GetById(int id)
         {
-            var result = _productService.GetAll();
+            var result = _productService.GetById(id);
             if (result.Success)
             {
                 Ok(result);
