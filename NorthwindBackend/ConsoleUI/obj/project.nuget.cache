@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eP2uGIe+KN1XspkDithE8JhWTKhvQN6Cbu/hooGfDBnO+4rbHN/4mnG4qO+u5Rpyv2q5Zs915J+1+SuKvubslA==",
+  "dgSpecHash": "9z4SL4BeU3DtjQxZupZce3ZlrWUqNKcTsKkcGN8wOXjxkEc9DDmXPgh/MEQAct6Wl5SFEDs20+zWqVh+qwxUfw==",
   "success": true,
   "projectFilePath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zerohidz\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\Zerohidz\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.1\\autofac.extras.dynamicproxy.6.0.1.nupkg.sha512",
     "C:\\Users\\Zerohidz\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\Zerohidz\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512",
     "C:\\Users\\Zerohidz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Zerohidz\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Zerohidz\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

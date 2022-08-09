@@ -69,3 +69,4 @@ D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\WebAPI\obj\De
 D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
 D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
 D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\net6.0\FluentValidation.dll

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "s4a9BXfLl2YRTqlomTqDQZLcLD6/K2dB7Ax6Py4/ExIVT/akwtrqj9FfTEd4G50U7/GtNuoWB0N9U/Q+sZjXMA==",
+  "dgSpecHash": "3OkQsDphjBEEBQOakslhToYjG02vyuqkssd0DRQX486XsTWe+LfrY2titl+PYBpFk8Lhfa4ReJ2Cmc3qpN7a5Q==",
   "success": true,
   "projectFilePath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Zerohidz\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512",
     "C:\\Users\\Zerohidz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Zerohidz\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Zerohidz\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
