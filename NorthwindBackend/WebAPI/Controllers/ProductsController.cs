@@ -1,6 +1,5 @@
 ﻿using Business.Abstract;
 using Entities.Concrete;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 // Bir katman başka bir katmanın somutunu alamaz, interface olarak almalı
@@ -11,7 +10,7 @@ namespace WebAPI.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        IProductService _productService;
+        private IProductService _productService;
 
         public ProductsController(IProductService productService)
         {
