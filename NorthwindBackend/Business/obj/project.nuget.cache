@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "CzLoZL3JDRIfAL5ALJcD2q/fbwqRlneW0exbeh+tul31tTu2ijMaxdY9HsV25wIKFxqmm7UMryYDWutMT6tETg==",
+  "dgSpecHash": "sc6Ah9GKY9E96VU5q80i8tVtwnTvbr9P6JdhVo/w/PBbpq3+BUlzu9VLV28Sz/BhvvaMu+qXkj6sFXwZm4jHHA==",
   "success": true,
   "projectFilePath": "D:\\Depo\\CurrentDepo\\Repositories\\NorthwindBackend\\NorthwindBackend\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zerohidz\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\Zerohidz\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\Zerohidz\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.1\\autofac.extras.dynamicproxy.6.0.1.nupkg.sha512",
     "C:\\Users\\Zerohidz\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Zerohidz\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512",
