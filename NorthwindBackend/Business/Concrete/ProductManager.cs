@@ -2,7 +2,6 @@
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
 using Core.Aspects.Autofac.Validation;
-using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Business;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
@@ -17,23 +16,19 @@ namespace Business.Concrete
     {
         private IProductDal _productDal;
         private ICategoryService _categoryService;
-        private ProductValidator _productValidator;
 
-        public ProductManager(IProductDal productDal, ICategoryService categoryService, ProductValidator productValidator)
+        public ProductManager(IProductDal productDal, ICategoryService categoryService)
         {
             _productDal = productDal;
             _categoryService = categoryService;
-            _productValidator = productValidator;
         }
 
-        //[ValidationAspect(typeof(ProductValidator))]
-
+        [ValidationAspect(typeof(ProductValidator))]
         public IResult Add(Product product)
         {
-            ValidationTool.Validate(_productValidator, product);
-
             IResult result = BusinessRules.Run(
                 CheckIfProductNameExists(product.ProductName),
+                CheckIfCategoryExists(product.CategoryId),
                 CheckIfProductCountOfCategoryCorrect(product.CategoryId));
 
             if (result.Success == false)
