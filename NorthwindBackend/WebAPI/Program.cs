@@ -1,5 +1,7 @@
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
+using Business.Abstract;
+using Business.Concrete;
 using Business.DependencyResolvers.Autofac;
 
 var builder = WebApplication.CreateBuilder(args);
