@@ -5,6 +5,8 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
+// Ders notu: Birden fazla değer döndürmek istediğinde tuple yapmak yerine ya class yaparsın yada out kullanırsın
+
 namespace Core.Utilities.Security.Hashing
 {
     public static class HashingHelper

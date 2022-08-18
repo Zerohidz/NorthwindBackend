@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Business.BusinessAspects.Autofac;
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
 using Core.Aspects.Autofac.Validation;
@@ -8,7 +9,7 @@ using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
 
-// Ders notu: bir Manger sadece kendi Dal'ını enjekte alabilir
+// Ders notu: bir Manager sadece kendi Dal'ını enjekte alabilir
 
 namespace Business.Concrete
 {
@@ -23,6 +24,7 @@ namespace Business.Concrete
             _categoryService = categoryService;
         }
 
+        [SecuredOperation("Admin")]
         [ValidationAspect(typeof(ProductValidator))]
         public IResult Add(Product product)
         {

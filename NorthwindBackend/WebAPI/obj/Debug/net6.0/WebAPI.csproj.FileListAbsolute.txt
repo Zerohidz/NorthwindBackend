@@ -70,3 +70,5 @@ D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\WebAPI\obj\De
 D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
 D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
 D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\net6.0\FluentValidation.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
