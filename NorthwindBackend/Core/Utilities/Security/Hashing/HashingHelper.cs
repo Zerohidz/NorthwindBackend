@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography;
+﻿using System.Security.Cryptography;
 using System.Text;
-using System.Threading.Tasks;
 
 // Ders notu: Birden fazla değer döndürmek istediğinde tuple yapmak yerine ya class yaparsın yada out kullanırsın
 

@@ -1,9 +1,4 @@
 ﻿using Core.Utilities.Results;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Core.Utilities.Business
 {
@@ -14,7 +9,7 @@ namespace Core.Utilities.Business
             foreach (var logicResult in logicResults)
                 if (logicResult.Success == false)
                     return logicResult;
-            
+
             return new SuccessResult();
         }
     }

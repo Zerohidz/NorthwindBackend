@@ -70,7 +70,6 @@ namespace Business.Concrete
             return new SuccessDataResult<List<ProductDetailDto>>(_productDal.GetProductDetails());
         }
 
-
         private IResult CheckIfProductNameExists(string productName)
         {
             if (_productDal.GetAll(p => p.ProductName == productName).Any())
@@ -78,7 +77,6 @@ namespace Business.Concrete
 
             return new SuccessResult();
         }
-
 
         private IResult CheckIfProductCountOfCategoryCorrect(int categoryId)
         {
