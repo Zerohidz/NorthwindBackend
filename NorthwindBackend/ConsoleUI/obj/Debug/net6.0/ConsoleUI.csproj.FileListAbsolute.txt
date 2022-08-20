@@ -254,3 +254,15 @@ D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\obj
 D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\obj\Debug\net6.0\ConsoleUI.pdb
 D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\obj\Debug\net6.0\ConsoleUI.genruntimeconfig.cache
 D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\bin\Debug\net6.0\Autofac.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\bin\Debug\net6.0\Autofac.Extras.DynamicProxy.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\bin\Debug\net6.0\Castle.Core.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\bin\Debug\net6.0\FluentValidation.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+D:\Depo\CurrentDepo\Repositories\NorthwindBackend\NorthwindBackend\ConsoleUI\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
