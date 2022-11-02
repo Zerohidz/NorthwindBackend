@@ -23,8 +23,10 @@ namespace WebAPI.Controllers
             var result = _productService.GetAll();
             if (result.Success)
             {
-                Ok(result);
+                Console.WriteLine("Success abe");
+                return Ok(result);
             }
+            Console.WriteLine("Al sana bad request");
             return BadRequest(result);
         }
 
@@ -34,7 +36,7 @@ namespace WebAPI.Controllers
             var result = _productService.GetById(id);
             if (result.Success)
             {
-                Ok(result);
+                return Ok(result);
             }
             return BadRequest(result);
         }
